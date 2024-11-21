@@ -1,2 +1,3 @@
 # College-Management-System
-Practicum-2
+Minor Project
+
